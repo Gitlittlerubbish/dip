@@ -1,2 +1,3 @@
 # dip
-otsu algorithm
+digital image process code
+
