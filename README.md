@@ -1,3 +1,3 @@
 # dip
-digital image process code
+digital image process code for DIP experiments.
 
